@@ -1,0 +1,9 @@
+setup.py
+assets/__init__.py
+assets/page.py
+demo.egg-info/PKG-INFO
+demo.egg-info/SOURCES.txt
+demo.egg-info/dependency_links.txt
+demo.egg-info/top_level.txt
+test/__init__.py
+test/regis_test.py
